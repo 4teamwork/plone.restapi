@@ -12,6 +12,9 @@ Changelog
   fields adapters.
   [sneridagh]
 
+- Fix workflow translations with unicode characters.
+  [Gagaro]
+
 
 1.0a25 (2017-11-23)
 -------------------
